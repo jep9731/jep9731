@@ -4,7 +4,7 @@ Welcome to my GitHub! Here's how my repositories are organized:
 
 ### 📘 Academic Projects
 > Coursework from my data science education.
-- [MSDS 402 coursework](https://github.com/jep9731/academic-MSDS402-coursework)
+- [MSDS 401 coursework](https://github.com/jep9731/academic-MSDS401-coursework)
 - [MSDS 430 final project](https://https://github.com/jep9731/academic-MSDS430-final-project)
 - [MSDS 420 coursework](https://github.com/jep9731/professional-neuroimaging-analysis)
 - [MSDS 422 coursework](https://github.com/jep9731/professional-neuroimaging-analysis)
