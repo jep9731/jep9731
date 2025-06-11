@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Joshua
 
-<!--
-**jep9731/jep9731** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! Here's how my repositories are organized:
 
-Here are some ideas to get you started:
+### 📘 Academic Projects
+> Coursework from my data science education.
+- [academic-python-dataquest](https://github.com/jep9731/academic-python-dataquest)
+- [academic-r-dq-portfolio](https://github.com/jep9731/academic-r-dq-portfolio)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Professional Projects
+> Real-world applications from clinical research and internships.
+- [professional-neuroimaging-analysis](https://github.com/jep9731/professional-neuroimaging-analysis)
+- [professional-clinical-dashboard](https://github.com/jep9731/professional-clinical-dashboard)
+
+### 🧪 Personal Projects
+> Self-driven explorations and experiments.
+- [academic-python-dataquest](https://github.com/jep9731/academic-python-dataquest)
+- [academic-r-dq-portfolio](https://github.com/jep9731/academic-r-dq-portfolio)
+
+🧠 Feel free to browse around and connect with me!
