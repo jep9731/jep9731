@@ -12,7 +12,7 @@ Welcome to my GitHub! Here's how my repositories are organized:
 ### 💼 Professional Projects
 > Real-world applications from clinical research.
 - [Research Projects](https://github.com/jep9731/professional-research-projects)
-- [Visualizations](https://github.com/jep9731/professional-neuroimaging-analysis)
+- [Visualizations](https://github.com/jep9731/profressional-visualizations)
 - [Mining Directories/Subdirectories](https://github.com/jep9731/professional-mining-directories)
 - [Eligibility Report](https://github.com/jep9731/professional-neuroimaging-analysis)
 
