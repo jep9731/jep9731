@@ -5,7 +5,7 @@ Welcome to my GitHub! Here's how my repositories are organized:
 ### 📘 Academic Projects
 > Final projects from my data science education.
 - [MSDS 430 final project](https://github.com/jep9731/academic-MSDS430-final-project)
-- [MSDS 420 final project](https://github.com/jep9731/academic-MSDS420-coursework)
+- [MSDS 420 final project](https://github.com/jep9731/academic-MSDS420-final-project)
 - [MSDS 460 final project](https://github.com/jep9731/academic-MSDS460-final-project)
 
 ### 💼 Professional Projects
