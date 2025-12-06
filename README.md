@@ -14,7 +14,7 @@ Welcome to my GitHub! Here's how my repositories are organized:
 > Real-world applications from clinical research.
 - [Research Projects](https://github.com/jep9731/professional-research-projects)
 - [Visualizations](https://github.com/jep9731/profressional-visualizations)
-- [Eligibility Report](https://github.com/jep9731/professional-eligibility-report)
+- [Reports](https://github.com/jep9731/professional-nu-reports)
 
 ### 🧪 Personal Projects
 > Self-driven explorations and certificates.
