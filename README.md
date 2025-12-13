@@ -18,7 +18,7 @@ Welcome to my GitHub! Here's how my repositories are organized:
 > Real-world applications from clinical research.
 - [Research Projects](https://github.com/jep9731/professional-nu-research-projects)
 - [Reports](https://github.com/jep9731/professional-nu-reports)
-- [Visualizations](https://github.com/jep9731/nu-professional-visualizations)
+- [Visualizations](https://github.com/jep9731/nu-professional-data-visualizations)
 
 ---
 
