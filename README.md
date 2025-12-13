@@ -24,7 +24,7 @@ Welcome to my GitHub! Here's how my repositories are organized:
 
 ## 🧪 Personal Projects
 > Self-driven explorations and certificates.
-- [Kaggle](https://github.com/jep9731/personal-kaggle)
+- [Kaggle ML portfolio](https://github.com/jep9731/personal-kaggle-ml-portfolio)
 - [Python dataquest portfolio](https://github.com/jep9731/personal-python-dataquest-portfolio)
 - [R dataquest portfolio](https://github.com/jep9731/personal-r-dataquest-portfolio)
 
