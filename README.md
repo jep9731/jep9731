@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! Here's how my repositories are organized:
 
-### 📘 Academic Coursework & Projects
+## 📘 Academic Coursework & Projects
 > Coursework & final projects from my data science education.
 - [MSDS 401 coursework](https://github.com/jep9731/academic-MSDS401-coursework)
 - [MSDS 410 coursework](https://github.com/jep9731/academic-MSDS410-coursework)
@@ -12,15 +12,21 @@ Welcome to my GitHub! Here's how my repositories are organized:
 - [MSDS 453 coursework](https://github.com/jep9731/academic-MSDS453-coursework)
 - [MSDS 460 final project](https://github.com/jep9731/academic-MSDS460-final-project)
 
-### 💼 Professional Projects
+---
+
+## 💼 Professional Projects
 > Real-world applications from clinical research.
 - [Research Projects](https://github.com/jep9731/professional-nu-research-projects)
 - [Reports](https://github.com/jep9731/professional-nu-reports)
 - [Visualizations](https://github.com/jep9731/profressional-visualizations)
 
-### 🧪 Personal Projects
+---
+
+## 🧪 Personal Projects
 > Self-driven explorations and certificates.
 - [Python dataquest portfolio](https://github.com/jep9731/personal-python-dataquest-portfolio)
 - [R dataquest portfolio](https://github.com/jep9731/personal-r-dataquest-portfolio)
 
-🧠 Feel free to browse around and connect with me!
+---
+
+#### 🧠 Feel free to browse around and connect with me!
