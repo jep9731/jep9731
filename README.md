@@ -64,7 +64,7 @@ Supervised learning models (Random Forest, XGBoost) on business datasets
 
 ---
 
-### Let's Connect!**
+### Let's Connect!
 
 **LinkedIn**: [linkedin.com/in/joshua-pasaye](https://www.linkedin.com/in/joshua-pasaye/)
 
