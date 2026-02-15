@@ -15,7 +15,7 @@ Here's how my repositories are organized:
 * [MSDS 430 final project](https://github.com/jep9731/academic-MSDS430-final-project) - Python for Data Analysis
 * [MSDS 420 final project](https://github.com/jep9731/academic-MSDS420-final-project) - Database Systems & Preparation
 * [MSDS 422 coursework](https://github.com/jep9731/academic-MSDS422-coursework) - Practical Machine Learning
-* [MSDS 453 coursework](https://github.com/jep9731/academic-MSDS453-coursework) - Natural Language Processing
+* [MSDS 453 final project](https://github.com/jep9731/academic-MSDS453-final-project) - Natural Language Processing
 * [MSDS 460 final project](https://github.com/jep9731/academic-MSDS460-final-project) - Decision Analytics
 * [MSDS 411 coursework](https://github.com/jep9731/academic-MSDS411-coursework) - *Unsupervised Learning (In Progress - Spring 2026)*
 * [MSDS Capstone Project](https://github.com/jep9731/academic-MSDS-capstone-project) - *Collaborative Data Science Project (In Progress - Spring 2026)*
