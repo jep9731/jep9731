@@ -26,7 +26,7 @@ Here's how my repositories are organized:
 > Real-world applications from clinical research.
 
 * [Research Projects](https://github.com/jep9731/professional-nu-research-projects) - Neuroimaging & neuropsychological data analysis
-* [Reports](https://github.com/jep9731/professional-nu-reports) - Automated reporting and analytics
+* [Reports & Dashboards](https://github.com/jep9731/professional-nu-reports) - Automated reporting and analytics
 
 ---
 
