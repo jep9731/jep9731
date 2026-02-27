@@ -27,7 +27,6 @@ Here's how my repositories are organized:
 
 * [Research Projects](https://github.com/jep9731/professional-nu-research-projects) - Neuroimaging & neuropsychological data analysis
 * [Reports](https://github.com/jep9731/professional-nu-reports) - Automated reporting and analytics
-* [Visualizations](https://github.com/jep9731/professional-nu-data-visualizations) - Data visualization dashboards
 
 ---
 
