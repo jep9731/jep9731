@@ -43,6 +43,9 @@ Here's how my repositories are organized:
 
 Check out these highlighted projects:
 
+**[Capstone Proejct](https://github.com/jep9731/academic-MSDS-capstone-project)**  
+Capstone project utlizing full end-to-end analytics and modeling for business insights
+
 **[Clinical Trial Schedule Optimization](https://github.com/jep9731/academic-MSDS460-final-project)**  
 MILP model optimizing clinical trial visit scheduling using Python
 
