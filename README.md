@@ -34,9 +34,6 @@ Here's how my repositories are organized:
 > Self-driven explorations and certificates.
 
 * [Kaggle ML portfolio](https://github.com/jep9731/personal-kaggle-ml-portfolio) - Machine learning competitions and datasets
-* [Python dataquest portfolio](https://github.com/jep9731/personal-python-dataquest-portfolio) - Python data analysis projects
-* [R dataquest portfolio](https://github.com/jep9731/personal-r-dataquest-portfolio) - R statistical analysis projects
-
 ---
 
 ### Featured Work
