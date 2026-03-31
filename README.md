@@ -69,7 +69,7 @@ Supervised learning models (Random Forest, XGBoost) on business datasets
 
 **Email**: joshuapasaye@yahoo.com
 
-**Location**: Chicago, IL
+**Location**: Streamwood, IL
 
 I'm actively seeking data analyst opportunities where I can apply my analytical skills and research expertise to drive business insights. Feel free to explore my repositories and reach out!
 
