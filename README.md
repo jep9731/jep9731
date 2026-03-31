@@ -1,5 +1,5 @@
 # Hi, I'm Joshua Pasaye
-**Clinical Research Data Scientist | MS in Data Science Candidate | Data Anaylst & Machine Learning**
+**Clinical Research Data Scientist | MS in Data Science Candidate**
 
 Welcome to my GitHub! I'm a data-driven professional passionate about transforming complex datasets into actionable insights. Currently completing my Master's in Data Science at Northwestern University while working as a Clinical Research Coordinator, where I leverage analytics to drive decision-making and optimize research operations.
 
