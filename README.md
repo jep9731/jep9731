@@ -75,4 +75,4 @@ I'm actively seeking data analyst opportunities where I can apply my analytical 
 
 ---
 
-*Currently open to: Data Analyst, Business Analyst, and Research Analyst roles*
+*Currently open to: Data Analyst, Data Scientist, Business Analyst, and Research Analyst roles*
