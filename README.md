@@ -31,7 +31,7 @@ Here's how my repositories are organized:
 ---
 
 ### Personal Projects
-> Self-driven explorations and certificates.
+> Self-driven explorations.
 
 * [Kaggle ML portfolio](https://github.com/jep9731/personal-kaggle-ml-portfolio) - Machine learning competitions and datasets
 ---
