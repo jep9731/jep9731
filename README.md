@@ -1,7 +1,7 @@
 # Hi, I'm Joshua Pasaye
-**Clinical Research Data Scientist | MS in Data Science Candidate**
+**Senior Service Line Analyst | MS in Data Science – Northwestern University**
 
-Welcome to my GitHub! I'm a data-driven professional passionate about transforming complex datasets into actionable insights. Currently completing my Master's in Data Science at Northwestern University while working as a Clinical Research Coordinator, where I leverage analytics to drive decision-making and optimize research operations.
+Welcome to my GitHub! I'm a healthcare data professional with a background in clinical research analytics and a Master of Science in Data Science from Northwestern University. I specialize in translating complex clinical and operational data into actionable insights that drive decision-making across health systems.
 
 ---
 
@@ -18,12 +18,12 @@ Here's how my repositories are organized:
 * [MSDS 422 coursework](https://github.com/jep9731/academic-MSDS422-coursework) - Practical Machine Learning
 * [MSDS 453 final project](https://github.com/jep9731/academic-MSDS453-final-project) - Natural Language Processing
 * [MSDS 460 final project](https://github.com/jep9731/academic-MSDS460-final-project) - Decision Analytics
-* [MSDS Capstone Project](https://github.com/jep9731/academic-MSDS-capstone-project) - Collaborative Data Science Project
+* [MSDS Capstone Project](https://github.com/jep9731/academic-MSDS-capstone-project) - Healthcare Predictive Analytics
 
 ---
 
 ### Professional Projects
-> Real-world applications from clinical research.
+> Real-world applications from clinical research and healthcare analytics.
 
 * [Research Projects](https://github.com/jep9731/professional-nu-research-projects) - Neuroimaging & neuropsychological data analysis
 * [Reports & Dashboards](https://github.com/jep9731/professional-nu-reports) - Automated reporting and analytics
@@ -34,45 +34,37 @@ Here's how my repositories are organized:
 > Self-driven explorations.
 
 * [Kaggle ML portfolio](https://github.com/jep9731/personal-kaggle-ml-portfolio) - Machine learning competitions and datasets
+
 ---
 
 ### Featured Work
 
-Check out these highlighted projects:
-
-**[Capstone Project](https://github.com/jep9731/academic-MSDS-capstone-project)**  
-Capstone project utlizing full end-to-end analytics and modeling for business insights
+**[Capstone Project – Healthcare Predictive Analytics](https://github.com/jep9731/academic-MSDS-capstone-project)**  
+Patient risk stratification model and Power BI dashboard for hospital executives, built end-to-end using Python and real clinical data
 
 **[Clinical Trial Schedule Optimization](https://github.com/jep9731/academic-MSDS460-final-project)**  
-MILP model optimizing clinical trial visit scheduling using Python
+MILP model reducing scheduling conflicts by 30% using Python
 
 **[Neuroimaging Research Analysis](https://github.com/jep9731/professional-nu-research-projects)**  
-Statistical analysis of neuroimaging and cognitive data using R
+Statistical analysis of neuroimaging and cognitive data in R, supporting Alzheimer's disease research
 
 **[Machine Learning Applications](https://github.com/jep9731/academic-MSDS422-coursework)**  
-Supervised learning models (Random Forest, XGBoost) on business datasets
+Ensemble models (Random Forest, XGBoost) achieving 85%+ accuracy on business forecasting problems
 
 ---
 
-### Current Focus (Spring 2026)
-
-- **Unsupervised Machine Learning** (Clustering, Dimensionality Reduction, Anomaly Detection)
-- **Capstone Project** - End-to-end data science solution for business problem
-- **Building Tableau & Power BI dashboards** for portfolio
-- **Seeking Data Analyst** opportunities post-graduation (June 2026)
+### Current Focus
+- **Senior Service Line Analyst** at Ascension Health — healthcare operations analytics
+- **MS in Data Science** (Northwestern University, June 2026)
+- Expanding work in **healthcare analytics, service line performance, and operational dashboards**
 
 ---
 
 ### Let's Connect!
-
-**LinkedIn**: [linkedin.com/in/joshua-pasaye](https://www.linkedin.com/in/joshua-pasaye/)
-
-**Email**: joshuapasaye@yahoo.com
-
+**LinkedIn**: [linkedin.com/in/joshua-pasaye](https://www.linkedin.com/in/joshua-pasaye/)  
+**Email**: joshuapasaye@yahoo.com  
 **Location**: Streamwood, IL
-
-I'm actively seeking data analyst opportunities where I can apply my analytical skills and research expertise to drive business insights. Feel free to explore my repositories and reach out!
 
 ---
 
-*Currently open to: Data Analyst, Data Scientist, Business Analyst, and Research Analyst roles*
+*Open to collaborating on healthcare analytics, data science, and clinical operations projects.*
